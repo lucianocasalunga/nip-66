@@ -1,4 +1,4 @@
-# NIP-66 · Relay Liveness Monitoring on LiberNet
+# NIP-66 (Relay Monitoring) on LiberNet
 
 > Relay Liveness Monitoring, as used by the **LiberNet** apps.
 
